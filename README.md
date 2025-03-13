@@ -1,4 +1,7 @@
+#Project  is In-Completed
+
 🧼 Safai Sewa Laundry 🚀
+
 About Safai Sewa
 Safai Sewa Laundry is a tech-driven on-demand laundry service offering doorstep pickup & delivery, eco-friendly cleaning, and quick turnaround times. Designed for urban professionals, students, and busy households, we eliminate the hassle of laundry with just a few clicks.
 
@@ -54,8 +57,6 @@ Safai Sewa Laundry is a tech-driven on-demand laundry service offering doorstep 
 ✅ High demand & repeat customer potential
 ✅ Sustainable & innovative approach
 ✅ First-mover advantage in many cities
-
-##Project  is In-Completed
 
 📸 How It Works?
 1️⃣ Book a Pickup – Schedule via our mobile app or website.
